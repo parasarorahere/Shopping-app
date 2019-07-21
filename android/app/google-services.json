@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "881242344814",
+    "firebase_url": "https://shoppingapp-f974c.firebaseio.com",
+    "project_id": "shoppingapp-f974c",
+    "storage_bucket": "shoppingapp-f974c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881242344814:android:c2747cda461ef29c",
+        "android_client_info": {
+          "package_name": "com.paras.shop3app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881242344814-obpvrsm61cek5f9n0loah54h6u6kp74q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paras.shop3app",
+            "certificate_hash": "5ce3f7cf97a25b8dabae79259c53998b95052c73"
+          }
+        },
+        {
+          "client_id": "881242344814-si5dgfc0nr2kgq5fqshg9vk32ukemaah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9A4xJ5LB5eR9b7hSVogdsSQjyxGCGOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881242344814-si5dgfc0nr2kgq5fqshg9vk32ukemaah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881242344814:android:3aa07e141654101d",
+        "android_client_info": {
+          "package_name": "com.paras.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881242344814-si5dgfc0nr2kgq5fqshg9vk32ukemaah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9A4xJ5LB5eR9b7hSVogdsSQjyxGCGOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881242344814-si5dgfc0nr2kgq5fqshg9vk32ukemaah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
